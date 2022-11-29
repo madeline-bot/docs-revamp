@@ -19,7 +19,11 @@ extensions = ["myst_parser", "revitron_sphinx_theme",]
 
 templates_path = ['_templates']
 exclude_patterns = []
-
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
 
 
 # -- Options for HTML output -------------------------------------------------
