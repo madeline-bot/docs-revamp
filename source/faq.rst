@@ -20,17 +20,11 @@ What are the required permissions for Madeline?
 
 All of Madeline's required permissions are required for a reason, so please do be careful on what permissions you remove. If you do start to remove permissions, you have a high likelihood of rendering some of Madeline's features useless.
 
-.. list-table::
-   :widths: 25 25
-   :header-rows: 1
-
-   * - Permission
-     - Usage
-   * - Send Messages
-     - Needed to respond to commands
-   * - Attach Files
-     - Needed to send ``/tools konesyntees`` results
-   * - Embed Links
-     - Needed to send embeds such as ``/samp wiki`` and ``/samp query``` results
-   * - Use External Emojis
-     - Needed to use private emojis for the help pages, for example
+===================  ===================
+Permission           Usage
+===================  ===================
+Send Messages        Needed to respond to commands
+Attach Files         Needed to send ``/tools konesyntees`` results
+Embed Links          Needed to send embeds such as ``/samp wiki`` and ``/samp query`` results
+Use External Emojis  Needed to use private emojis for the help pages, for example
+===================  ===================
