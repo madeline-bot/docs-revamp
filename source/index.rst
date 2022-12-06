@@ -24,14 +24,28 @@ Madeline
    information
    get-started
    faq
+
+.. toctree::
+   :caption: Commands
+   :maxdepth: 3
+   :hidden:
+
+   commands.ckc
+   commands.samp
+   commands.tools
+
+.. toctree::
+   :caption: Legal
+   :hidden:
+
    privacy
    terms
-   genindex
 
 .. toctree::
    :caption: External Links
    :hidden:
-
+   
+   genindex
    GitHub <https://github.com/madeline-bot>
    ♡ Sponsor <https://github.com/sponsors/madeline-bot>
    Discord <https://discord.gg/mxkvjpknTN>
